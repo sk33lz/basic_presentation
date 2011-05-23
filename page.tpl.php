@@ -57,7 +57,7 @@
     <?php print $content_bottom ?>
     </div>
 	<?php endif; ?>
-    <?php if ($quarters): ?>
+    <?php if ($q1 || $q2 || $q3 || $q4): ?>
 	<div id="quarters">
 	  <?php if ($q1): ?>
       <div class="q1">

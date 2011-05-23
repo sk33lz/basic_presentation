@@ -61,7 +61,8 @@ p,ul,ol {margin:0 0 20px 0; padding:0; color:#777;}
 
 /* Drupal Specific CSS */
 #copy1,
-#secondary_links {
+#secondary_links,
+#secondary_links ul li {
   float: left;    
 }
 #copy2 {
